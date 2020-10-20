@@ -12,7 +12,7 @@ $form=ActiveForm::begin();
 
 // echo "<pre>"; print_r($model); exit;?>
 <?= $form->field($model,'name1');?>
-
+<h1>mukul</h1>
 <?php //$form->field($model,'name');?>
 <?php //$form->field($model,'email');?>
 
